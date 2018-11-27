@@ -12,16 +12,6 @@ comments: false
 Born and bred in the Italian countryside. Lived in a tiny village (less than 1500 people) surrounded by vineyards. Became an accountant before realising that was not the maths he liked, shifted to computer engineering and then slowly approached artificial intelligence and cognitive science research topics.
 
 Interested in any formal, ideally mathematical, theory of life and/or cognition.
-[//]: # (* Minimal, you can focus on your content)
-[//]: # (* Responsive)
-[//]: # (* Disqus integration)
-[//]: # (* Syntax highlighting)
-[//]: # (* Optional post image)
-[//]: # (* Social icons)
-[//]: # (* Page for sharing projects)
-[//]: # (* Optional background image)
-[//]: # (* Simple navigation menu)
-[//]: # (* MathJax support)
 
 ## The origins of life
 Worked for a very brief period at <a href="http://eon.elsi.jp/"><b>EON</b></a> (ELSI Origins of life Network) at Tokyo Tech. Got really into some theories on the Ool (Origins of life), especially proposals attempting to link Ool to information and control theory. For an overview: <a href="http://eon.elsi.jp/information-and-regulation-at-the-origins-of-life/"><b>blogpost for EON</b></a>. Spare time activity: understanding what life is.
@@ -35,6 +25,8 @@ Worked for a very brief period at <a href="http://eon.elsi.jp/"><b>EON</b></a> (
 [//]: # (See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.)
 
 ## The origins of cognition
-Interested in minimal models of cognition. Where does it come from and why does it look evolutionary advantegeous? Trying to link basic definitions of cognition to simple mathematical models of agent-environment systems. Claiming that an understanding of cognition will require a deep grasp of life, and vice versa. To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
+Interested in minimal models of cognition. Where does it come from and why does it look evolutionary advantegeous? Trying to link basic definitions of cognition to simple mathematical models of agent-environment systems. Claiming that an understanding of cognition will require a deep grasp of life, and vice versa.
+
+[//]: # (To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.)
       
 [//]: # ([Install Moon](https://github.com/TaylanTatli/Moon){: .btn})
