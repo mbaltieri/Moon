@@ -1,6 +1,6 @@
 # Site
 title:              Manuel Baltieri
-bio:                'Postdoc interested in the mathematics of life and cognition.'
+bio:                'Postdoc interested in the mathematics of life and cognition'
 description:        "Moon is a minimal, one column jekyll theme for your blog."
 reading_time:       true
 words_per_minute:   200
@@ -39,12 +39,12 @@ disqus_shortname:   manuelbaltieri
 #bing-verify:
 #email:
 twitter:            manuelbaltieri
-facebook:           meruz
+#facebook:           meruz
 github-url:         mbaltieri
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 linkedin:           manuelbaltieri
 #xing:              username
-instagram:          universeinabubble
+#instagram:          universeinabubble
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
