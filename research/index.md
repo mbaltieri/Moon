@@ -10,7 +10,7 @@ comments: false
 ## Journal publications
 - **PID control as a process of active inference with linear generative models**, Baltieri M. and Buckley C. L., *Entropy 21 (3), 257 (2019)*
 - **Modularity, the separation principle and active inference**, Baltieri M. and Buckley C. L., (in prep.)
-[//]: # - **The emperor’s new Markov blanket**, Bruineberg J. and Baltieri M., (in prep.)
+[//]: # (- **The emperor’s new Markov blanket**, Bruineberg J. and Baltieri M., (in prep.))
 - **A ladder of uncertainty: models of perception and behaviour for increasingly complex environments**, Baltieri M., Seth. A.K., Roseboom W. (in prep.)
 
 ## Conference proceedings
