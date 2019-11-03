@@ -1,17 +1,18 @@
 ---
 layout: page
-title: About Manuel
-tags: [about, manuel, life, cognition]
+title: List of publications
+tags: [publications, manuel]
 date: 2019-10-03
 comments: false
 ---
-    
-[//]: # (<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>)
 
-## The origins of Manuel
-Manuel was born and bred in the Italian countryside. Lived in a tiny village (less than 1500 people) surrounded by vineyards for most his life. He became an accountant before realising that his place was not at a desk filling tax forms, then shifted to computer engineering and later approached research topics in artificial intelligence and cognitive science.
 
-Interested in any formal, ideally mathematical, theory of life and/or cognition.
+## Journal publications
+- PID control as a process of active inference with linear generative models, Baltieri M. and Buckley C. L., Entropy 21 (3), 257 (2019)
+- Modularity, the separation principle and active inference, Baltieri M. and Buckley C. L., (in prep.)
+- The emperor’s new Markov blanket, Bruineberg J. and Baltieri M., (in prep.)
+- A ladder of uncertainty: models of perception and behaviour for increasingly
+complex environments, Baltieri M., Seth. A.K., Roseboom W. (in prep.)
 
 ## The origins of life
 He worked for a very brief period at <a href="http://eon.elsi.jp/"><b>EON</b></a> (ELSI Origins of life Network) at Tokyo Tech. There, he got into theories of the origins of life (Ool), with a special interest for proposals attempting to link Ool to information and control theory. For a brief overview: <a href="http://eon.elsi.jp/information-and-regulation-at-the-origins-of-life/"><b>blogpost for EON</b></a>. In his spare time: understanding what life is all about.
