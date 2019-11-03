@@ -2,19 +2,18 @@
 layout: post
 title:  "Uncertainty"
 date:   2019-11-03
-excerpt: "Minimal, one column Jekyll theme for your blog."
+excerpt: "Uncertainty in behaviour and decision making."
 project: true
 tag:
 - uncertainty
 - research
 - riken
 - sussex
-- theme
 comments: true
 ---
 
 
-# What is uncertainty and how do agents use it?
+# What is uncertainty and how do agents deal with it?
 #### Sussex University and RIKEN CBS
 Human behaviour and decision-making are contingent to the uncertainty that an agent has regarding its environment. The world is a dynamic place and its properties are often too many to keep track of. How is an agent affected by unknown and ambiguous information? How can reliable behaviour emerge in the presence of uncertain stimuli?
 
