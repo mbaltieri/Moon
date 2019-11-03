@@ -1,7 +1,7 @@
 # Site
 title:              Manuel Baltieri
 bio:                'Mathematics and physics of life and cognition'
-description:        "Postdoc at the University of Sussex"
+description:        "Postdoc at the University of Sussex (soon joining RIKEN CBS)"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/AlifeMe.jpg'
@@ -37,7 +37,7 @@ disqus_shortname:   manuelbaltieri
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
+email:              m.baltieri@sussex.ac.uk
 twitter:            manuelbaltieri
 #facebook:           meruz
 github-url:         mbaltieri
