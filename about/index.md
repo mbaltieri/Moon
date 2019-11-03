@@ -5,8 +5,6 @@ tags: [about, manuel, life, cognition]
 date: 2019-10-03
 comments: false
 ---
-    
-[//]: # (<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>)
 
 ## The origins of Manuel
 Born and bred in the Italian countryside. He lived in a tiny village (less than 1500 people) surrounded by vineyards for most of his life. He studied accounting before realising that his place was not at a desk filling in forms for double entry bookkeeping.
